@@ -16,4 +16,4 @@ Required Components:
 8. 2 x infrared sensor
 9. 1 x ultrasonic sensor
 
-{I did not build the robot irl because my motor was damaged but have seen someone else's robot and would try to implement that myself when i get a new motor or i will just borrow it for someone, I have informed other seniors about the fault component in the previous session}
+{I did not build the robot irl because my motor was damaged but have seen someone else's robot and would try to implement that myself when i get a new motor or i will just borrow it from someone, I have informed other seniors about the faulty component in the previous session}
