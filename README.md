@@ -8,7 +8,7 @@ I used the arduino IDE to write and upload the code to the arduino board.
 Required Components:
 1. arduino board
 2. 2 x 12 V motors
-3. connecting wires
+3. jumper wires
 4. breadboard
 5. 2 x 9 V battery
 6. metal chasis
